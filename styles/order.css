@@ -1,0 +1,25 @@
+.card-order {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 15px;  
+    margin: 120px auto;
+    width: 50%;
+    height: 260px;
+}
+
+#successful-order {
+    display: flex;
+    gap: 6px;
+    text-align: center;
+    font-size: 29px;
+}
+
+#back-catalog {
+    padding: 5px 9px;
+    border-radius: 12px;
+    text-decoration: none;
+    color: white;
+    background: #00b894;
+}
