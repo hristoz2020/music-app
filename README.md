@@ -15,10 +15,21 @@ It is a web-based application that works like an online music catalog that allow
 <img src="images/screenshots/catalogPage.png" height="300"></img>
 
 **Search Functionality:**
+
 <img src="images/screenshots/Picture1.png" height="300"></img>
+
+**Payment Form:**
+
+<img src="images/screenshots/Picture2.png" height="300"></img>
+
+**Add Album Form:**
+
+<img src="images/screenshots/Picture4.png" height="300"></img>
+
 
 ## Installation and Setup
 
 1. Clone the repository to your local machine.
 2. Navigate to the project folder and run `npm install` to install the required dependencies.
-3. Start the development server with `npm start`.
+3. Start the node server with `npm start`.
+4. Start the development server with `npm run dev`.
